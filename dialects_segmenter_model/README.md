@@ -9,7 +9,7 @@ This segmenter requires the following packages:
 
 - Python version 3.6
     
-- `tensorflow` version 2.0 or later: https://www.tensorflow.org
+- `tensorflow` version 2.4 or later: https://www.tensorflow.org
 - `nltk` version 3.5 or later
 
 ## Installation
